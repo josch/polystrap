@@ -1,0 +1,12 @@
+udev
+kmod
+apt
+locales
+procps
+conspy 
+man-db
+fbset
+openssh-server
+screen
+less
+vim

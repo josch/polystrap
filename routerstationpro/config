@@ -1,0 +1,4 @@
+SUITE="sid"
+ARCH="mips"
+ROOTDIR="debian-$SUITE-$ARCH-`date +%F`"
+MIRROR="http://cdn.debian.net/debian/"

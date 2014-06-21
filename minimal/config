@@ -1,0 +1,4 @@
+SUITE="sid"
+ARCH="armel"
+ROOTDIR="debian-$SUITE-$ARCH-`date +%F`"
+MIRROR="http://cdn.debian.net/debian"
